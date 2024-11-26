@@ -1,0 +1,137 @@
+<albums>
+  <album>
+    <title>Album Title 3</title>
+    <genres>
+      <genre>Rock</genre>
+      <genre>Pop</genre>
+    </genres>
+    <artists>
+      <artist>Artist 1</artist>
+      <artist>Artist 2</artist>
+    </artists>
+    <releaseDate>2023-11-27</releaseDate>
+    <ageRestriction>18+</ageRestriction>
+    <tracks>
+      <track>
+        <title>Track 1</title>
+        <duration>04:00</duration>
+      </track>
+      <track>
+        <title>Track 2</title>
+        <duration>05:00</duration>
+      </track>
+      <track>
+        <title>Track 3</title>
+        <duration>06:00</duration>
+      </track>
+    </tracks>
+  </album>
+  <album>
+    <title>Album Title 4</title>
+    <genres>
+      <genre>Rock</genre>
+      <genre>Pop</genre>
+    </genres>
+    <artists>
+      <artist>Artist 2</artist>
+      <artist>Artist 3</artist>
+    </artists>
+    <releaseDate>2022-11-27</releaseDate>
+    <ageRestriction>18+</ageRestriction>
+    <tracks>
+      <track>
+        <title>Track 1</title>
+        <duration>04:00</duration>
+      </track>
+      <track>
+        <title>Track 2</title>
+        <duration>05:00</duration>
+      </track>
+      <track>
+        <title>Track 3</title>
+        <duration>06:00</duration>
+      </track>
+    </tracks>
+  </album>
+  <album>
+    <title>Album Title 5</title>
+    <genres>
+      <genre>Rock</genre>
+      <genre>Pop</genre>
+    </genres>
+    <artists>
+      <artist>Artist 3</artist>
+      <artist>Artist 4</artist>
+    </artists>
+    <releaseDate>2021-11-27</releaseDate>
+    <ageRestriction>18+</ageRestriction>
+    <tracks>
+      <track>
+        <title>Track 1</title>
+        <duration>04:00</duration>
+      </track>
+      <track>
+        <title>Track 2</title>
+        <duration>05:00</duration>
+      </track>
+      <track>
+        <title>Track 3</title>
+        <duration>06:00</duration>
+      </track>
+    </tracks>
+  </album>
+  <album>
+    <title>Album Title 6</title>
+    <genres>
+      <genre>Rock</genre>
+      <genre>Pop</genre>
+    </genres>
+    <artists>
+      <artist>Artist 4</artist>
+      <artist>Artist 5</artist>
+    </artists>
+    <releaseDate>2020-11-27</releaseDate>
+    <ageRestriction>18+</ageRestriction>
+    <tracks>
+      <track>
+        <title>Track 1</title>
+        <duration>04:00</duration>
+      </track>
+      <track>
+        <title>Track 2</title>
+        <duration>05:00</duration>
+      </track>
+      <track>
+        <title>Track 3</title>
+        <duration>06:00</duration>
+      </track>
+    </tracks>
+  </album>
+  <album>
+    <title>Album Title 7</title>
+    <genres>
+      <genre>Rock</genre>
+      <genre>Pop</genre>
+    </genres>
+    <artists>
+      <artist>Artist 5</artist>
+      <artist>Artist 6</artist>
+    </artists>
+    <releaseDate>2019-11-27</releaseDate>
+    <ageRestriction>18+</ageRestriction>
+    <tracks>
+      <track>
+        <title>Track 1</title>
+        <duration>04:00</duration>
+      </track>
+      <track>
+        <title>Track 2</title>
+        <duration>05:00</duration>
+      </track>
+      <track>
+        <title>Track 3</title>
+        <duration>06:00</duration>
+      </track>
+    </tracks>
+  </album>
+</albums>

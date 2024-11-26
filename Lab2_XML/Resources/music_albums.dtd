@@ -1,0 +1,12 @@
+<!ELEMENT albums (album+)>
+<!ELEMENT album (title, genres, artists, releaseDate, ageRestriction, tracks)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT genres (genre+)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT artists (artist+)>
+<!ELEMENT artist (#PCDATA)>
+<!ELEMENT releaseDate (#PCDATA)>
+<!ELEMENT ageRestriction (#PCDATA)>
+<!ELEMENT tracks (track+)>
+<!ELEMENT track (title, duration)>
+<!ELEMENT duration (#PCDATA)>

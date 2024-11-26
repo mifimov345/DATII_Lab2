@@ -1,0 +1,25 @@
+{
+  "albums": [
+    {
+      "title": "Album Title 1",
+      "genres": [ "Rock", "Pop" ],
+      "artists": [ "Artist 1", "Artist 2" ],
+      "releaseDate": "2020-01-01",
+      "ageRestriction": "18+",
+      "tracks": [
+        {
+          "title": "Track 1",
+          "duration": "03:45"
+        },
+        {
+          "title": "Track 2",
+          "duration": "05:15"
+        },
+        {
+          "title": "Track 3",
+          "duration": "04:20"
+        }
+      ]
+    }
+  ]
+}
